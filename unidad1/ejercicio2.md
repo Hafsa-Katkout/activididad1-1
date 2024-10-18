@@ -34,7 +34,7 @@ Esto es un trozo de codigo
 
 ## Un enlace a otro fichero Markdown que tengas en el repositorio:
 
-[lo que sea](ejercicio.md)
+[ejercicio1.md](ejercicio1.md)
 
 
 ## Una imagen:
