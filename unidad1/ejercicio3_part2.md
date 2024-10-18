@@ -36,8 +36,7 @@ Usando el comando `git branch`
 
 ## Añadir un nuevo fichero en la rama "primera" y fusionarlo con la rama principal
 
-
-   ### Explicación del proceso:
+### Explicación del proceso:
  Primero, añadir un nuevo archivo en la rama "primera" , por ejemplo llamarlo `archivo.txt`
 
    ![jzcr](./images/eje3.2_images/3.jpg)
