@@ -43,7 +43,9 @@
 ![hsagd](./images/6.2.jpg)
 
 ## Truco: con el comando git checkout -b [rama] se crea una nueva rama y te posicionas en ella:
-- exemple rama llama : 'Hafsa':
+
+  - exemple rama llama : 'Hafsa':
+
 ![hsagd](./images/7.2.jpg)
 
 ## Comprobar que coinciden el último commit en las tres ramas:
