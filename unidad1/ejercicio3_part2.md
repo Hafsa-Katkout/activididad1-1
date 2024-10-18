@@ -25,7 +25,8 @@
 
 ## Crear la rama "primera" en el repositorio local
 
- Usando el comando `git branch -b primera`
+ Usando el comando `git branch -b primera`   
+ 
 ![jzcr](./images/eje3.2_images/1.jpg)
 
 
