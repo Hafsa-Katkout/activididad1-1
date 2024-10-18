@@ -11,22 +11,22 @@ Esto es un trozo de codigo
 ```
 
 ## Una lista ordenada
-1. gfukyghkbhg
-2. saesytc liuwegai
-3. keyrg
-4. kweyxf 
-5. seicty 
-6. eliuyrxye
-7. selrct 
-8. ahgefrygfb
+1. Lunes
+2. Martes
+3. Miercoles
+4. Jueves
+5. Viernes
+6. Sabado
+7. Domingo
 --- 
 ## Una lista desordenada 
-- kwuqcrt 4yu
-- qwucrc 
-- wekukct 
-- w3i4ct
-- aeocbty
-- e4u5ubytiv54y
+- Lunes
+- Martes 
+- Miercoles
+- ueves
+- Viernes
+- Sabado
+- Domingo
   
 ## Un enlace a una URL externa :
 
